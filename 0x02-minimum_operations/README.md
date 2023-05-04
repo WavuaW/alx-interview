@@ -1,0 +1,1 @@
+This is an interview questions on minimum operators 
